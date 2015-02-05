@@ -1,4 +1,4 @@
-#!/usr/bin/python 
+
 
 # To experiment with this code freely you will have to run this code locally.
 # We have provided an example json output here for you to look at,
@@ -62,3 +62,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
